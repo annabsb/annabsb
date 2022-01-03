@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @annabsb. You can call me Anna Bovo, I'm 21 years old and I'm interested in the world of technology, but I study in the area of biology and science. I always try to improve myself in programming, starting from 0 and I want to be a developer. Can you help me?
+- 👋 Hi, I’m @annabsb. You can call me Anna Bovo, I'm 21 years old and I'm interested in the world of technology, starting from 0 and I want to be a developer.
 - 👀 I’m interested in design and front end
 - 🌱 I’m currently learning new ways to solve problems and different languages
 - 📫 annabeatrizbovo@gmail.com
