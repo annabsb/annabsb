@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @annabsb. You can call me Anna Bovo, I'm 23 years old and I'm interested in the world of technology, i want to be a senior developer.
-- 👀 I’m interested in tech
-- 🌱 I’m currently learning new ways to solve problems and different languages
-- 👋 Bachelor of Information Systems - graduating in 2025
+👋 Hi, I’m @annabsb. You can call me Anna Bovo, I'm 25 years old and I'm interested in the world of technology. I want to be a Systems Analyst.
+👀 Interested in tech
+🌱 Currently learning new languages and problem-solving techniques
+🎓 Bachelor of Information Systems - graduating in 2025
 - 📫 annabeatrizbovo@gmail.com
 
 # 💫 About Me:
